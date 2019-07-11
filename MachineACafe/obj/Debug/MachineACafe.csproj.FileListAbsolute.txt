@@ -1,0 +1,10 @@
+C:\Users\rquenu\Documents\ExerciceADMEON\MachineACafe\MachineACafe\bin\Debug\MachineACafe.exe.config
+C:\Users\rquenu\Documents\ExerciceADMEON\MachineACafe\MachineACafe\bin\Debug\MachineACafe.exe
+C:\Users\rquenu\Documents\ExerciceADMEON\MachineACafe\MachineACafe\bin\Debug\MachineACafe.pdb
+C:\Users\rquenu\Documents\ExerciceADMEON\MachineACafe\MachineACafe\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rquenu\Documents\ExerciceADMEON\MachineACafe\MachineACafe\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rquenu\Documents\ExerciceADMEON\MachineACafe\MachineACafe\obj\Debug\MachineACafe.csprojAssemblyReference.cache
+C:\Users\rquenu\Documents\ExerciceADMEON\MachineACafe\MachineACafe\obj\Debug\MachineACafe.csproj.CoreCompileInputs.cache
+C:\Users\rquenu\Documents\ExerciceADMEON\MachineACafe\MachineACafe\obj\Debug\MachineACafe.csproj.CopyComplete
+C:\Users\rquenu\Documents\ExerciceADMEON\MachineACafe\MachineACafe\obj\Debug\MachineACafe.exe
+C:\Users\rquenu\Documents\ExerciceADMEON\MachineACafe\MachineACafe\obj\Debug\MachineACafe.pdb
